@@ -1,0 +1,1 @@
+This folder focuses on Natural Language Processing (NLP), covering text processing, sentiment analysis, and other techniques to extract meaningful insights from textual data. Practical examples using popular NLP libraries like NLTK and spaCy are provided.
